@@ -20,7 +20,7 @@ var phrases = [
 ];
 
 var stack = [];
-var delay = 3000;
+var delay = 6000;
 var limit = 1; // change probability, 1-10
 var isPhraseHovered = false;
 var scrollDuration = 300;
